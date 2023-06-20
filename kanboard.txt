@@ -1,0 +1,13 @@
+21-06-2023
+Hal-hal yang akan dipelajari:
+1. MCU Bus Interface
+2. MCU Clocks
+
+22-06-2023
+Hal-hal yang akan dipelajari
+1. MCU Clock Tree
+
+23-06-2023
+Hal-hal yang akan dipelajari
+1. MCU Vectors Tables
+2. MCU Interupt Design, NVIC, Interrupt Handling
